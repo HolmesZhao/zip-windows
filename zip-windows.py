@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
-# unzip-gbk.py
 # 使用方式 python zip-windows.py /Users/Yesoul/Downloads/体脂秤.zip
 
 import os
