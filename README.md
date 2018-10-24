@@ -29,3 +29,6 @@ query=`python zip-windows.py $query` // 执行 Python 脚本
 echo -n $query  // 输出成功标志用于通知
 open $res  // 打开要解压的文件目录
 ```
+![image](https://user-images.githubusercontent.com/19728934/47402792-996ef300-d779-11e8-9481-41ee5a57b071.png)
+
+![lzzip](https://user-images.githubusercontent.com/19728934/47403101-dc7d9600-d77a-11e8-9a25-37d33930424f.gif)
